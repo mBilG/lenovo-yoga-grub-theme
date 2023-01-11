@@ -7,7 +7,7 @@ This theme has been tested on:
 
 ## Preview
 
-
+![alt text](https://github.com/mBilG/lenovo-yoga-grub-theme/blob/main/preview-yoga-grub-theme.png?raw=true)
 
 ## Manual Installation
 ### Part 1: Install theme
