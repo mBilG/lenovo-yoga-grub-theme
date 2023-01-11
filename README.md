@@ -60,6 +60,14 @@ Not available at the moment
 
 Licensed under GNU GPL v3.0
 
-Adapted from Filippo Ghibellini
+Created by
 
-https://github.com/fghibellini/arch-silence
+mBilG, 2022
+
+Adapted from 
+
+Filippo Ghibellini https://github.com/fghibellini/arch-silence
+
+and
+
+Abel Johnson https://github.com/Abe0770/b-grub-theme
